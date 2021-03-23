@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/matakov" target="blank"><img src="https://img.shields.io/twitter/follow/matakov?logo=twitter&style=for-the-badge" alt="matakov" /></a> </p>
 
-- 🔭 I’m currently working on [FoodGram](https://cafetveria.ru/)
+- 🔭 I’m currently working on [FoodGram](https://github.com/matacoder/foodgram-project)
 
 - 🌱 I’m currently learning **Python, Django, REST, React, HTMX, Docker**
 
