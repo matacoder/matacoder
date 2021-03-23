@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://matakov.com/](https://matakov.com/)
 
-- 💬 Ask me about **Docker-Compose, Django**
+- 💬 Ask me about **Docker-Compose, Django, GitHub CI/CD**
 
 - 📫 How to reach me **denis@matakov.com**
 
