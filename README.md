@@ -25,6 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Список технологий для изучения](https://matakov.com/spisok-texnologij-dlya-izucheniya/)
+- [Bulma для всех, кто боится Bootstrap](https://matakov.com/bulma-dlya-vsex-kto-boitsya-bootstrap/)
+- [Закончил курс Яндекс.Практикума Python-разработчик](https://matakov.com/zakonchil-kurs-yandeks-praktikuma-python-razrabotchik/)
+- [Docker-compose для разработки: видим изменения на лету](https://matakov.com/docker-compose-dlya-razrabotki-vidim-izmeneniya-na-letu/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
