@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [FoodGram](https://github.com/matacoder/foodgram-project)
 
-- 🌱 I’m currently learning **Python, Django, REST, React, HTMX, Docker**
+- 🌱 I’m currently learning **Python, Django, REST, JavaScript/React, HTMX, Docker**
 
 - 👯 I’m looking to collaborate on [BlackBox](https://github.com/lemonsaurus/blackbox)
 
