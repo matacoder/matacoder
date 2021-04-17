@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Как установить psycopg2-binary на Apple Silicon M1 Big Sur (в том числе в Docker)](https://matakov.com/kak-ustanovit-psycopg2-binary-na-apple-silicon-m1-big-sur-v-tom-chisle-v-docker/)
 - [Список технологий для изучения](https://matakov.com/spisok-texnologij-dlya-izucheniya/)
 - [Bulma для всех, кто боится Bootstrap](https://matakov.com/bulma-dlya-vsex-kto-boitsya-bootstrap/)
 - [Закончил курс Яндекс.Практикума Python-разработчик](https://matakov.com/zakonchil-kurs-yandeks-praktikuma-python-razrabotchik/)
-- [Docker-compose для разработки: видим изменения на лету](https://matakov.com/docker-compose-dlya-razrabotki-vidim-izmeneniya-na-letu/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
