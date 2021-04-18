@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/matakov" target="blank"><img src="https://img.shields.io/twitter/follow/matakov?logo=twitter&style=for-the-badge" alt="matakov" /></a> </p>
 
-- 🔭 I’m currently working on [FoodGram](https://github.com/matacoder/foodgram-project)
+- 🔭 I’m currently working on open-source [Blackbox](https://github.com/lemonsaurus/blackbox)
 
 - 🌱 I’m currently learning **Python, Django, REST, JavaScript/React, HTMX, Docker**
 
-- 👯 I’m looking to collaborate on [BlackBox](https://github.com/lemonsaurus/blackbox)
+- 👯 I’m looking to collaborate on some open-source heathcare app.
 
 - 🤝 I’m contributing to [Django-starter](https://github.com/lemonsaurus/django-starter)
 
@@ -15,13 +15,13 @@
 
 - 📝 I regularly write articles on [https://matakov.com/](https://matakov.com/)
 
-- 💬 Ask me about **Docker-Compose, Django, GitHub CI/CD**
+- 💬 Ask me about **Docker-Compose, Django, GitHub CI/CD and online business**
 
-- 📫 How to reach me **denis@matakov.com**
+- 📫 How to reach me: **denis@matakov.com** or telegram [@matakov](https://t.me/matakov)
 
 - 📄 Know about my experiences [https://matakov.com/contacts/](https://matakov.com/contacts/)
 
-- ⚡ Life fact **I have banking diploma and three kids**
+- ⚡ Life fact **I have banking diploma with honors and three kids**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
