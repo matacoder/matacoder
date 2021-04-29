@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [No code. Создаем программные продукты в визуальных редакторах.](https://matakov.com/no-code-sozdaem-programmnye-produkty-v-vizualnyx-redaktorax/)
 - [Как установить psycopg2-binary на Apple Silicon M1 Big Sur (в том числе в Docker)](https://matakov.com/kak-ustanovit-psycopg2-binary-na-apple-silicon-m1-big-sur-v-tom-chisle-v-docker/)
 - [Список технологий для изучения](https://matakov.com/spisok-texnologij-dlya-izucheniya/)
 - [Bulma для всех, кто боится Bootstrap](https://matakov.com/bulma-dlya-vsex-kto-boitsya-bootstrap/)
-- [Закончил курс Яндекс.Практикума Python-разработчик](https://matakov.com/zakonchil-kurs-yandeks-praktikuma-python-razrabotchik/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
