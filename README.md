@@ -19,7 +19,7 @@
 
 - 📫 How to reach me: **denis@matakov.com** or telegram [@matakov](https://t.me/matakov)
 
-- 📄 Know about my experiences [https://matakov.com/contacts/](https://matakov.com/contacts/)
+- 📄 Know about my experiences [https://matakov.com/cv/](https://matakov.com/cv/)
 
 - ⚡ Life fact **I have banking diploma with honors and three kids**
 
