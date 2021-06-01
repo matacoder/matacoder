@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on open-source [Blackbox](https://github.com/lemonsaurus/blackbox)
 
-- 🌱 I’m currently learning **Python, Django, REST, JavaScript/React, HTMX, Docker**
+- 🌱 I’m currently learning **Async programming, Microservices, AWS, PostgreSQL, Design Patterns**
 
-- 👯 I’m looking to collaborate on some open-source heathcare app.
-
-- 🤝 I’m contributing to [Django-starter](https://github.com/lemonsaurus/django-starter)
+- 🤝 I’m contributing to [Django-Docker](https://github.com/matacoder/django-docker)
 
 - 👨‍💻 All of my projects are available at [https://github.com/matacoder](https://github.com/matacoder)
 
