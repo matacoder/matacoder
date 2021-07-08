@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denis Matakov</h1>
-<h3 align="center">I'm looking for remote job as a python backend developer</h3>
+<h3 align="center">I'm Software Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/matakov" target="blank"><img src="https://img.shields.io/twitter/follow/matakov?logo=twitter&style=for-the-badge" alt="matakov" /></a> </p>
 
