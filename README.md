@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="avatar.png" width="200" height="200" style="object-fit: cover; border-radius: 50%;" alt="Denis Matakov"/>
-  
   # Denis Matakov
   
   ### CTO & Head of Development
