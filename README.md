@@ -1,44 +1,62 @@
-<h1 align="center">Hi 👋, I'm Denis Matakov</h1>
-<h3 align="center">I'm Software Engineer</h3>
+<div align="center">
+  <img src="avatar.png" width="200" height="200" style="object-fit: cover; border-radius: 50%;" alt="Denis Matakov"/>
+  
+  # Denis Matakov
+  
+  ### CTO & Head of Development
+  #### Software Architect | Tech Leader
+  
+  [![GitHub followers](https://img.shields.io/github/followers/matacoder?style=social)](https://github.com/matacoder)
+</div>
 
-<p align="left"> <a href="https://twitter.com/matakov" target="blank"><img src="https://img.shields.io/twitter/follow/matakov?logo=twitter&style=for-the-badge" alt="matakov" /></a> </p>
+## About Me 👨‍💻
 
-- 🔭 I’m currently working on open-source [Blackbox](https://github.com/lemonsaurus/blackbox)
+Technology leader with extensive experience in building and scaling engineering teams. Architect of distributed systems and mentor for next-gen developers. Specializing in high-load fintech solutions and enterprise architecture.
 
-- 🌱 I’m currently learning **Async programming, Microservices, AWS, PostgreSQL, Design Patterns**
+- 🎯 CTO focused on scaling engineering excellence
+- 💡 Head of Development driving technical innovation
+- 🏗️ Software Architect designing robust distributed systems
+- 👥 Leading and mentoring development teams
+- 🌍 Based in Europe
 
-- 🤝 I’m contributing to [Django-Docker](https://github.com/matacoder/django-docker)
+## Tech Stack 🛠️
 
-- 👨‍💻 All of my projects are available at [https://github.com/matacoder](https://github.com/matacoder)
+<div align="center">
 
-- 📝 I regularly write articles on [https://matakov.com/](https://matakov.com/)
+| Category | Technologies |
+|----------|-------------|
+| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| Backend | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
+| Databases | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
+| DevOps | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
+| Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) |
 
-- 💬 Ask me about **Docker-Compose, Django, GitHub CI/CD and online business**
+</div>
 
-- 📫 How to reach me: **denis@matakov.com** or telegram [@matakov](https://t.me/matakov)
+## Leadership & Expertise 🎯
 
-- 📄 Know about my experiences [https://matakov.com/cv/](https://matakov.com/cv/)
+- **Technical Leadership**: Building and scaling engineering teams
+- **Architecture Design**: Microservices, Cloud-native solutions
+- **Team Development**: Mentoring, Technical roadmaps
+- **Technology Strategy**: Digital transformation, Tech stack optimization
 
-- ⚡ Life fact **I have banking diploma with honors and three kids**
+## Connect With Me 🤝
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Docker контейнер перезагружается, как узнать почему?](https://matakov.com/docker-kontejner-perezagruzhaetsya-kak-uznat-pochemu/)
-- [Как я искал и нашел IT-работу в 2021 году](https://matakov.com/kak-ya-iskal-i-nashel-it-rabotu-v-2021-godu/)
-- [No code. Создаем программные продукты в визуальных редакторах.](https://matakov.com/no-code-sozdaem-programmnye-produkty-v-vizualnyx-redaktorax/)
-- [Как установить psycopg2-binary на Apple Silicon M1 Big Sur &lpar;в том числе в Docker&rpar;](https://matakov.com/kak-ustanovit-psycopg2-binary-na-apple-silicon-m1-big-sur-v-tom-chisle-v-docker/)
-<!-- BLOG-POST-LIST:END -->
+- 📫 Email: denis@matakov.com
+- 💼 LinkedIn: [Denis Matakov](https://linkedin.com/in/matakov)
+- 🌐 Website: [matakov.com](https://matakov.com)
+- 📱 Telegram: [@matakov](https://t.me/matakov)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/matakov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="matakov" height="30" width="40" /></a>
-<a href="https://instagram.com/matakov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="matakov" height="30" width="40" /></a>
-<a href="/https://matakov.com/feed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://matakov.com/feed/" height="30" width="40" /></a>
-</p>
+## GitHub Stats 📊
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matacoder&theme=dark)](https://github.com/matacoder)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matacoder&show_icons=true&locale=en&layout=compact" alt="matacoder" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matacoder&show_icons=true&locale=en" alt="matacoder" /></p>
+---
+
+<div align="center">
+  <sub>Let's build something amazing together! 🚀</sub>
+</div>
