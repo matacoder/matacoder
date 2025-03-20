@@ -1,10 +1,11 @@
 <div align="center">
-  # Denis Matakov
+
+# Denis Matakov
+
+### CTO & Head of Development
+#### Software Architect | Tech Leader
   
-  ### CTO & Head of Development
-  #### Software Architect | Tech Leader
-  
-  [![GitHub followers](https://img.shields.io/github/followers/matacoder?style=social)](https://github.com/matacoder)
+[![GitHub followers](https://img.shields.io/github/followers/matacoder?style=social)](https://github.com/matacoder)
 </div>
 
 ## About Me 👨‍💻
