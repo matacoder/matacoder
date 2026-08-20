@@ -1,0 +1,29 @@
+name: Update years-in-IT counter
+on:
+    schedule:
+        # 00:10 UTC on 1 January — the only moment the number can change
+        - cron: '10 0 1 1 *'
+    workflow_dispatch:
+jobs:
+    update-counter:
+        name: Recompute years since 2006 in README
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+        steps:
+            - uses: actions/checkout@v4
+            - name: Substitute counter
+              run: |
+                YEARS=$(( $(date -u +%Y) - 2006 ))
+                sed -i -E "s|(<!--YEARS_START-->)[0-9]+(<!--YEARS_END-->)|\1${YEARS}\2|" README.md
+                echo "years=${YEARS}"
+            - name: Commit if changed
+              run: |
+                if git diff --quiet -- README.md; then
+                  echo "Counter already up to date."
+                  exit 0
+                fi
+                git config user.name "github-actions[bot]"
+                git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+                git commit -m "Update years-in-IT counter" -- README.md
+                git push

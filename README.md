@@ -1,61 +1,59 @@
-<div align="center">
-
 # Denis Matakov
 
-### CTO & Head of Development
-#### Software Architect | Tech Leader
-  
-[![GitHub followers](https://img.shields.io/github/followers/matacoder?style=social)](https://github.com/matacoder)
-</div>
+**CTO at [Buenos Padel](https://buenospadel.ru/)** — a network of padel clubs in Moscow, Tver and beyond.
+In IT since 2006 — <!--YEARS_START-->20<!--YEARS_END--> years, most of them spent turning engineering
+teams into something the business can rely on.
 
-## About Me 👨‍💻
+I work at the seam between architecture and organization: the system design that makes a product scale,
+and the team design that makes the system get built. Lately a lot of that involves AI-assisted development —
+not as a demo, but as part of how the work actually gets done.
 
-Technology leader with extensive experience in building and scaling engineering teams. Architect of distributed systems and mentor for next-gen developers. Specializing in high-load fintech solutions and enterprise architecture.
+## What I do
 
-- 🎯 CTO focused on scaling engineering excellence
-- 💡 Head of Development driving technical innovation
-- 🏗️ Software Architect designing robust distributed systems
-- 👥 Leading and mentoring development teams
-- 🌍 Based in Europe
+**Engineering leadership.** Building teams, competency centers and technical roadmaps. Making the
+decision-making process explicit so that architecture survives people changing jobs.
 
-## Tech Stack 🛠️
+**Architecture.** Distributed systems and microservices platforms, cloud-native infrastructure,
+API design (REST/GraphQL), PostgreSQL data models. TOGAF 10 for the enterprise-scale conversations.
 
-<div align="center">
+**Making it measurable.** Technical metrics, reliability targets, cost control. Kubernetes resource
+optimization and cloud spend reduction are recurring themes — the kind of work where a good week
+pays for the quarter.
 
-| Category | Technologies |
-|----------|-------------|
-| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| Backend | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
-| Databases | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
-| DevOps | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
-| Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) |
+**Rapid prototyping.** A working prototype in 1–7 days beats a deck every time. Python, Django, HTMX,
+FastAPI, PostgreSQL, plus whatever the problem actually needs.
 
-</div>
+**Mentoring.** Career and technical mentoring for engineers and tech leads — see [mtkv.ru](https://mtkv.ru/)
+for how that works and what people say about it.
 
-## Leadership & Expertise 🎯
+## Selected results
 
-- **Technical Leadership**: Building and scaling engineering teams
-- **Architecture Design**: Microservices, Cloud-native solutions
-- **Team Development**: Mentoring, Technical roadmaps
-- **Technology Strategy**: Digital transformation, Tech stack optimization
+- Designed and led development of a microservices platform from architecture to production
+- Established six competency centers and an architectural manifesto that made technical decisions
+  repeatable rather than heroic
+- Introduced a technical metrics system that measurably improved product reliability
+- Optimized Kubernetes cluster resources with significant infrastructure savings
+- Orchestrated a transition to a cloud SaaS architecture
 
-## Connect With Me 🤝
+## Tech
 
-- 📫 Email: denis@matakov.com
-- 💼 LinkedIn: [Denis Matakov](https://linkedin.com/in/matakov)
-- 🌐 Website: [matakov.com](https://matakov.com)
-- 📱 Telegram: [@matakov](https://t.me/matakov)
+`Python` · `Django` · `FastAPI` · `JavaScript` · `PostgreSQL` · `Redis` · `Docker` · `Kubernetes`
+· `GitHub Actions` · `REST / GraphQL` · `Claude Code`
 
-## GitHub Stats 📊
+## Writing
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matacoder&theme=dark)](https://github.com/matacoder)
+I blog about engineering leadership, AI-assisted development and the unglamorous parts of being a CTO:
 
-</div>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
----
+More at [matakov.com](https://matakov.com) — and short, practical notes for tech leads in my
+Telegram channel [@cto_leader](https://t.me/cto_leader).
 
-<div align="center">
-  <sub>Let's build something amazing together! 🚀</sub>
-</div>
+## Contact
+
+- Telegram: [@matakov](https://t.me/matakov) — channel: [@cto_leader](https://t.me/cto_leader)
+- Blog: [matakov.com](https://matakov.com)
+- Consulting & mentoring: [mtkv.ru](https://mtkv.ru/)
+- LinkedIn: [in/matakov](https://linkedin.com/in/matakov)
+- Email: matakov@gmail.com
