@@ -45,6 +45,10 @@ for how that works and what people say about it.
 I blog about engineering leadership, AI-assisted development and the unglamorous parts of being a CTO:
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code и 1С.Предприятие](https://matakov.com/claude-code-i-1s-predpriyatie/)
+- [Секреты продуктивной работы с Claude Code](https://matakov.com/sekrety-produktivnoj-raboty-s-claude-code/)
+- [Как проводить демо: структура, слайды и акценты](https://matakov.com/kak-provodit-demo-struktura-slajdy-i-akcenty/)
+- [Первый опыт с Claude Code: зачем мне консольный ИИ-ассистент разработчика](https://matakov.com/pervyj-opyt-s-claude-code-zachem-mne-konsolnyj-ii-assistent-razrabotchika/)
 <!-- BLOG-POST-LIST:END -->
 
 More at [matakov.com](https://matakov.com) — and short, practical notes for tech leads in my
